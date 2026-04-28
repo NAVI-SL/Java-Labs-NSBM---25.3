@@ -1,7 +1,7 @@
 // Q1
 import java.util.Scanner;
 
-public class java2  {
+public class lab2  {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
 
@@ -36,6 +36,8 @@ public class java2  {
             System.out.println("Invalid Marks");
         }
 
+        System.out.println("Total: " + total);
+
         scanner.close();
     }
 }
@@ -53,7 +55,7 @@ public class java2  {
 // // Q3
 // import java.util.Scanner; 
 
-// public class Assignment1 {
+// public class lab2 {
 //     public static void main(String[] args) {
 //         Scanner scanner = new Scanner(System.in);
 
