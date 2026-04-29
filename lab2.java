@@ -73,15 +73,26 @@
 // }
 
 
-// Q4
-import java.util.Scanner;
+// // Q4
+// import java.util.Scanner;
 
-public class lab2 {
-    public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-
+// public class lab2 {
+//     public static void main(String[] args) {
+//         Scanner scanner = new Scanner(System.in);
         
+//         int num1 = 
 
-        scanner.close();
-    }
-}
+//         if (num1 % 2 == 0 && num1 % 7 == 0){
+//             System.out.println("both are divisible by 2 and 7 ");
+
+//         }
+//         else if ((num1 % 2 == 0 || num1 % 7 ==0)){
+//             System.out.println("divisible by only one of 2 or 7");
+
+//         }
+//         else{
+//             System.out.println("Not divisible by either ");
+//         }
+//         scanner.close();
+//     }
+// }
