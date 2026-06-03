@@ -1,6 +1,6 @@
 package Q3;
 
-public class Employee {
+public class Employee extends Person {
     String employeeId;
     String department;
 
