@@ -7,6 +7,8 @@ public class Main {
         s1.age = 29;
         s1.employeeId = "SA-201";
         s1.department = "SOC";
-        
+        s1.introduce();
+        s1.showEmployeeInfo();
+        s1.analyzeThreats();
     }
 }
