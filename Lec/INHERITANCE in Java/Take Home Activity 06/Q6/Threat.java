@@ -6,6 +6,10 @@ public class Threat {
     String severity;
 
     public void logThreat() {
-        System.out.println("[THREAT LOG] ID: " + threatId);
+        System.out.println("[THREAT LOG] ID: " + threatId + " | Source: [source] | Severity: " + severity);
+    }
+
+    public void raiseAlert() {
+        System.out.println("!! SECURITY ALERT !! Threat " + threatId + " detected from " + source);
     }
 }
