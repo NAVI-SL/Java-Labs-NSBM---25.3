@@ -1,3 +1,5 @@
+package Q4;
+
 public class Vehicle {
     String make;
     int speed;
