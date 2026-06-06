@@ -7,8 +7,5 @@ public class Main {
         calc.add(5.5, 4.5);
         calc.add(10, 20, 30);
         calc.add("Hello ", "Java");
-
-        
-        
     }
 }
